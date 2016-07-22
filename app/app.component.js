@@ -24,7 +24,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: '<h1>这个和哦好</h1>'
+                        template: '<h1>恭喜啊，小妞！还实时的刷新修改代码，看浏览器！</h1>'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
